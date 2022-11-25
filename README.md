@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AsherRowanOak
+- 👀 I’m interested in exploring code bases and expanding my skill set
+- 🌱 I’m currently learning web development, BLE development. software development, IOS
